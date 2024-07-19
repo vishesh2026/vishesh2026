@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishesh Kumawat</h1>
-<img align="right" alt="Coder" width="400" src=" https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
+<img align="right" alt="Coder" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishesh2026&label=Profile%20views&color=0e75b6&style=flat" alt="vishesh2026" /> </p>
 
 - 🌱 I’m currently learning **Penetration Testing, MERN Stack**
