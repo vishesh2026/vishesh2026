@@ -21,15 +21,6 @@
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/vishesh-kumawat-b3b1a5265" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
-
----
 
 # 💻 My Skills
 
@@ -65,9 +56,18 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vishesh-kumawat-b3b1a5265" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
 
 ---
+
 
 # 📊 GitHub Stats
 
@@ -76,9 +76,3 @@
 ![](https://streak-stats.demolab.com/?user=vishesh2026&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishesh2026&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=vishesh2026&icon=0&color=0" />
-</p>
